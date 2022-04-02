@@ -1,5 +1,11 @@
 # M1_StudentRecord
 
+This is a c programming student record in which we can store the details of a student like ID number,Name,Address,Phone number,which Class he is studying.We can search the student details by selecting the search operation which is shown on the display and we can modify or delete the details of the student also.
+
+# Folder Structure
+
+
+# Code badges and Scores
 
 [![Bulid CI - Linux](https://github.com/Bhargav-Yelli/M1_StudentRecord/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Bhargav-Yelli/M1_StudentRecord/actions/workflows/c-cpp.yml)
 [![Analysis](https://github.com/Bhargav-Yelli/M1_StudentRecord/actions/workflows/analysis.yml/badge.svg)](https://github.com/Bhargav-Yelli/M1_StudentRecord/actions/workflows/analysis.yml)
