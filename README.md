@@ -2,7 +2,13 @@
 
 This is a c programming student record in which we can store the details of a student like ID number,Name,Address,Phone number,which Class he is studying.We can search the student details by selecting the search operation which is shown on the display and we can modify or delete the details of the student also.
 
-# Folder Structure
+## Folder Structure
+|Folder             | Description |
+|-------------------| -----------------------------------------|
+| `1_Requirements`   | Documents detailing requirements and research|
+| `2_Architecture`         | Documents specifying design details|
+| `3_Implementation` | All code and documentation|
+| `4_Test_plan`      | Documents with test plans and procedures|
 
 
 # Code badges and Scores
